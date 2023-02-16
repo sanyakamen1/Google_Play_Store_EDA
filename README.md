@@ -1,2 +1,2 @@
-# life_expectancy_eda
+# Life Expectancy
 Exploratory Analysis of Life Expectancy Data

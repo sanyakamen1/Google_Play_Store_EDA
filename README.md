@@ -1,2 +1,3 @@
-# Android Apps on Google Play
-Exploratory Analysis of Android Apps on Google Play
+# Мобильные приложения в Google Play Store
+
+## EDA датасета приложений в Google Play Store

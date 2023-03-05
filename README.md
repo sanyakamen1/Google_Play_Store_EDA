@@ -1,6 +1,6 @@
 # Мобильные приложения в Google Play Store
 
-## EDA датасета приложений в Google Play Store
+## EDA приложений в Google Play Store
 
 ### Что сделал:
 #### 1) Предобработка данных:

@@ -13,4 +13,4 @@
     - Изучил взаимосвязь между некоторыми признаками и сформулировал статистические гипотезы
     - Использовал статистические тесты для проверки гипотез
     - Оформил результаты своего исследования в едином визуальном стиле
-    - Сделал [дашборд в Power BI](https://github.com/sanyakamen1/Google_Play_Store_EDA/blob/main/Power%20BI%20Dashboard.pdf)
+    - Сделал дашборд в [Power BI](https://github.com/sanyakamen1/Google_Play_Store_EDA/blob/main/Power%20BI%20Dashboard.pdf)
